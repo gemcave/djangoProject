@@ -25,7 +25,7 @@ SECRET_KEY = 'ngy*nw&#n3!7)mh$qrvju9_*kpko7s&u#34@_msn0mff3c)-xj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0']
+ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0', 'ancient-refuge-43773.herokuapp.com']
 
 
 # Application definition
